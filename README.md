@@ -1,4 +1,4 @@
-# ✈️ Airline Operations Dataset
+# ✈️ Airline  Dashboard
 
 This repository contains a dataset of airline flight operations, including scheduling, delays, passenger counts, and revenue metrics. It can be used for data analysis, visualization, machine learning, and business insights.
 
