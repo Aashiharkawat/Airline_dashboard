@@ -32,9 +32,17 @@ This allows users to explore data intuitively and make better decisions.
  Airline Operations & Performance
 
 🧩 Features
+
 📅 Filters (Month & Year)
+
 💰 Revenue by Airline
+
 📈 Revenue vs Passenger
-📊 Flights by Airline.
+
 🛫 Flight Status Distribution
+
+Origin–Destination Route Performance
+
+- Provides detailed insights into route-level performance across different cities
+- Helps analyze how origin and destination impact revenue, pricing, and delays
 
