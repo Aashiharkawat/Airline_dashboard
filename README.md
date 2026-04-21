@@ -20,7 +20,7 @@ This project aims to analyze airline operations data from carriers such as Air I
 
 ## 💡 Solution
 
-I designed a 3-page Power BI dashboard that converts raw data into meaningful insights:
+I designed a 2-page Power BI dashboard that converts raw data into meaningful insights:
 - Clean and interactive UI
 - Dynamic filtering using slicers
 - Easy navigation across pages
