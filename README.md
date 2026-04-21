@@ -85,7 +85,6 @@ Airline_Dashboard.pbix → Power BI dashboard
 
 dataset → Dataset used
 
-Images → Dashboard previews
 
 
   
