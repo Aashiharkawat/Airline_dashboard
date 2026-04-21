@@ -26,3 +26,15 @@ I designed a 3-page Power BI dashboard that converts raw data into meaningful in
 - Easy navigation across pages
 
 This allows users to explore data intuitively and make better decisions.
+
+📊 Dashboard Pages
+
+ Airline Operations & Performance
+
+🧩 Features
+📅 Filters (Month & Year)
+💰 Revenue by Airline
+📈 Revenue vs Passenger
+📊 Flights by Airline.
+🛫 Flight Status Distribution
+
