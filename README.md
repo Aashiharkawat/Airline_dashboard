@@ -46,6 +46,17 @@ This allows users to explore data intuitively and make better decisions.
 
 Origin–Destination Route Performance
 
-- Provides detailed insights into route-level performance across different cities
-- Helps analyze how origin and destination impact revenue, pricing, and delays
+<img width="617" height="341" alt="origin-destination route performance" src="https://github.com/user-attachments/assets/d008179d-e1f3-495f-9961-4310b5f3cfdb" />
+
+🧩 Key Visuals
+💰 Ticket Price by Origin
+
+📈 Destination by Revenue
+
+🗺️ Revenue by Origin–Destination (Map View)
+
+📊 Avg Delay by Airline
+
+📋 Route-Level Data Table
+
 
