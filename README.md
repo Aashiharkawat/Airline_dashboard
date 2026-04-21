@@ -31,6 +31,9 @@ This allows users to explore data intuitively and make better decisions.
 
  Airline Operations & Performance
 
+ <img width="620" height="342" alt="Airline operations and performance" src="https://github.com/user-attachments/assets/8063321c-735e-4774-9a52-6922ba8d40bf" />
+
+
 🧩 Features
 
 📅 Filters (Month & Year)
