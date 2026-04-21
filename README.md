@@ -49,6 +49,7 @@ This allows users to explore data intuitively and make better decisions.
 <img width="617" height="341" alt="origin-destination route performance" src="https://github.com/user-attachments/assets/d008179d-e1f3-495f-9961-4310b5f3cfdb" />
 
 🧩 Key Visuals
+
 💰 Ticket Price by Origin
 
 📈 Destination by Revenue
