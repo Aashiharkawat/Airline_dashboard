@@ -81,7 +81,9 @@ This allows users to explore data intuitively and make better decisions.
 ## 📂 Project Files
 
 Airline_Dashboard.pbix → Power BI dashboard
+
 dataset → Dataset used
+
 Images → Dashboard previews
 
 
